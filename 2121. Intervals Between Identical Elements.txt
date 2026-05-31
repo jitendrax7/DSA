@@ -1,0 +1,40 @@
+class Solution {
+public:
+    vector<long long> getDistances(vector<int>& nums) {
+        unordered_map<int,vector<int>> m;
+        
+
+        for(int i = 0;i<nums.size();i++){
+            m[nums[i]].push_back(i);
+        }
+
+        vector<long long > ans (nums.size(),0);
+
+        for(auto &it :m){
+            auto & arr = it.second;
+            int n =  arr.size();
+
+            if(n==1) continue;
+              
+            vector<long long> prefix(n,0);
+
+            // calculate the prifix 
+            for(int i = n-2;i>=0;i--){
+                int diff = arr[i+1]-arr[i];
+
+                prefix[i] =  (long long) prefix[i+1] + ((n-i-1)*diff);
+            }    
+
+            ans[arr[0]] = prefix[0];
+            long long suff = 0;
+
+            for(int i =1;i<n;i++){
+                int diff = arr[i]-arr[i-1];
+                suff += (long long ) (i* diff);
+                ans[arr[i]] = (long long ) suff + prefix[i];
+            }
+        }
+
+        return ans;
+    }
+};
