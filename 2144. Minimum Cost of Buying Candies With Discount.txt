@@ -1,0 +1,16 @@
+class Solution {
+public:
+    int minimumCost(vector<int>& cost) {
+        
+        sort(cost.begin(), cost.end() ,greater<int>());
+
+        int maxcost = 0;
+        int n = cost.size();
+        for(int i=0;i<n;i+=3){
+            maxcost += cost[i];
+            if(i+1<n) maxcost += cost[i+1];
+        }
+
+        return maxcost;
+    }
+};

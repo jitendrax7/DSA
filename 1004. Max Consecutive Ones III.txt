@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int longestOnes(vector<int>& nums, int k) {
+        int n = nums.size();
+        int max_ones = 0;
+        int flips = 0;
+        int left = 0;
+
+        for(int r=0;r<n;r++){
+            if(nums[r]==0) flips ++;
+            while(flips>k){
+                if(nums[left]==0) flips--;
+                left ++;
+            }
+
+            max_ones = max(max_ones, r-left+1);
+        }
+
+        return max_ones;
+    }
+};
