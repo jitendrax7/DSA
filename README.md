@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/jitendrax7/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jitendrax7/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jitendrax7/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/jitendrax7/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jitendrax7/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
@@ -43,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/jitendrax7/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jitendrax7/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Hash Table
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/jitendrax7/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jitendrax7/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
