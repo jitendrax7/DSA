@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jitendrax7/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jitendrax7/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
@@ -30,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jitendrax7/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Depth-First Search
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jitendrax7/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jitendrax7/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Union-Find
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jitendrax7/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
