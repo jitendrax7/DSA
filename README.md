@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
 | [0997-find-the-town-judge](https://github.com/jitendrax7/DSA/tree/master/0997-find-the-town-judge) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jitendrax7/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jitendrax7/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -29,29 +30,35 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jitendrax7/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jitendrax7/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jitendrax7/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jitendrax7/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jitendrax7/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jitendrax7/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jitendrax7/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jitendrax7/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Hash Table
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jitendrax7/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/jitendrax7/DSA/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jitendrax7/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
