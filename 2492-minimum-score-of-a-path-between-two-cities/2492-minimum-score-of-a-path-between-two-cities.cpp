@@ -74,9 +74,9 @@ public:
         }
   
         int ans = INT_MAX;
-
+        int p1 = ds.findUPar(1);
         for(auto & edge:roads){
-            if(edge[2]<ans && ds.findUPar(1)==ds.findUPar(edge[1]) ){
+            if(edge[2]<ans && p1==ds.findUPar(edge[1]) ){
                 ans = edge[2];
             }
         }
