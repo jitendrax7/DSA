@@ -37,13 +37,9 @@ class DisjointSet {
     
 };
 
-
 class Solution {
 public:
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
-
-        vector<vector<int>> adj(n);
-
         DisjointSet ds(n);
 
         for(auto & e:edges) ds.unionBySize(e[0],e[1]);
