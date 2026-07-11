@@ -51,11 +51,6 @@ public:
             int v = edge[1];
             ds.unionBySize(u,v);
         }
-        // unordered_map<int,int> m;
-        // for(int i=0;i<n;i++){
-        //     m[ds.findUPar(i)]++;
-        // }
-
         int ans = 0;
         for(int i=0;i<n;i++){
             if(i==ds.findUPar(i)){
