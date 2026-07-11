@@ -46,11 +46,8 @@ public:
 
         DisjointSet ds(n);
 
-        for(auto edge:edges){
-            int u = edge[0];
-            int v = edge[1];
-            ds.unionBySize(u,v);
-        }
+        for(auto & e:edges) ds.unionBySize(e[0],e[1]);
+        
         int ans = 0;
         for(int i=0;i<n;i++){
             if(i==ds.findUPar(i)){
