@@ -7,7 +7,7 @@ public:
         for(int i = 0;i<n;i++){
             temp.push_back({arr[i], i});
         }
-        sort(temp.begin(),temp.end());
+        sort(temp.begin(),temp.end());    // sort by default based on first element of pair in asc order
         vector<int> res (n);
         res[temp[0].second] = 1;
         for(int i=1;i<n;i++){   
