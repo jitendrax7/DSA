@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/jitendrax7/DSA/tree/master/0827-making-a-large-island) |
 | [0997-find-the-town-judge](https://github.com/jitendrax7/DSA/tree/master/0997-find-the-town-judge) |
 | [1288-remove-covered-intervals](https://github.com/jitendrax7/DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/jitendrax7/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jitendrax7/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jitendrax7/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/jitendrax7/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/jitendrax7/DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/jitendrax7/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jitendrax7/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jitendrax7/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/jitendrax7/DSA/tree/master/0997-find-the-town-judge) |
+| [1331-rank-transform-of-an-array](https://github.com/jitendrax7/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jitendrax7/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jitendrax7/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
