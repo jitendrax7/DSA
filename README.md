@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/jitendrax7/DSA/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/jitendrax7/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/jitendrax7/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jitendrax7/DSA/tree/master/0213-house-robber-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jitendrax7/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/jitendrax7/DSA/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/jitendrax7/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/jitendrax7/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jitendrax7/DSA/tree/master/0213-house-robber-ii) |
 | [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
