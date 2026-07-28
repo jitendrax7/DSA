@@ -1,15 +1,15 @@
 class Solution {
 public:
-    int f(vector<vector<int>>& triangle, int row, int col, vector<vector<int>> & dp ){   // space O(n*n)
+    // int f(vector<vector<int>>& triangle, int row, int col, vector<vector<int>> & dp ){   // space O(n*n)
 
-        if(row==triangle.size()-1) return triangle[row][col];
+    //     if(row==triangle.size()-1) return triangle[row][col];
 
-        if(dp[row][col]!=INT_MIN) return dp[row][col];
-        int down = triangle[row][col] + f(triangle,row+1, col, dp);
-        int downright = triangle[row][col] + f(triangle,row+1, col+1, dp);
+    //     if(dp[row][col]!=INT_MIN) return dp[row][col];
+    //     int down = triangle[row][col] + f(triangle,row+1, col, dp);
+    //     int downright = triangle[row][col] + f(triangle,row+1, col+1, dp);
 
-        return dp[row][col] = min(down,downright);
-    }
+    //     return dp[row][col] = min(down,downright);
+    // }
 
     int minimumTotal(vector<vector<int>>& triangle) {     
 
