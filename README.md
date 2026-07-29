@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/jitendrax7/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jitendrax7/DSA/tree/master/0213-house-robber-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jitendrax7/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1463-cherry-pickup-ii](https://github.com/jitendrax7/DSA/tree/master/1463-cherry-pickup-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jitendrax7/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/jitendrax7/DSA/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/jitendrax7/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/jitendrax7/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jitendrax7/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1463-cherry-pickup-ii](https://github.com/jitendrax7/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jitendrax7/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jitendrax7/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jitendrax7/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/jitendrax7/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/jitendrax7/DSA/tree/master/0827-making-a-large-island) |
 | [1260-shift-2d-grid](https://github.com/jitendrax7/DSA/tree/master/1260-shift-2d-grid) |
+| [1463-cherry-pickup-ii](https://github.com/jitendrax7/DSA/tree/master/1463-cherry-pickup-ii) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/jitendrax7/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jitendrax7/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jitendrax7/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
