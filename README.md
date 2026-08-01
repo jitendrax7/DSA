@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/jitendrax7/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jitendrax7/DSA/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/jitendrax7/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/jitendrax7/DSA/tree/master/0486-predict-the-winner) |
 | [0931-minimum-falling-path-sum](https://github.com/jitendrax7/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jitendrax7/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/jitendrax7/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/jitendrax7/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jitendrax7/DSA/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/jitendrax7/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/jitendrax7/DSA/tree/master/0486-predict-the-winner) |
 | [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/jitendrax7/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/jitendrax7/DSA/tree/master/0827-making-a-large-island) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/jitendrax7/DSA/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jitendrax7/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jitendrax7/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jitendrax7/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -217,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jitendrax7/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jitendrax7/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/jitendrax7/DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/jitendrax7/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
