@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jitendrax7/DSA/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/jitendrax7/DSA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/jitendrax7/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/jitendrax7/DSA/tree/master/0198-house-robber) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jitendrax7/DSA/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/jitendrax7/DSA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/jitendrax7/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/jitendrax7/DSA/tree/master/0198-house-robber) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jitendrax7/DSA/tree/master/0045-jump-game-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jitendrax7/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jitendrax7/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jitendrax7/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
