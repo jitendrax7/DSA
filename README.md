@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jitendrax7/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/jitendrax7/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/jitendrax7/DSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/jitendrax7/DSA/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/jitendrax7/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/jitendrax7/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jitendrax7/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jitendrax7/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/jitendrax7/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/jitendrax7/DSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/jitendrax7/DSA/tree/master/0494-target-sum) |
 | [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/jitendrax7/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/jitendrax7/DSA/tree/master/0827-making-a-large-island) |
@@ -260,8 +262,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/jitendrax7/DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/jitendrax7/DSA/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/jitendrax7/DSA/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/jitendrax7/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/jitendrax7/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
