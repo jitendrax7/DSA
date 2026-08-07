@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/jitendrax7/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/jitendrax7/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/jitendrax7/DSA/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/jitendrax7/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/jitendrax7/DSA/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/jitendrax7/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/jitendrax7/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/jitendrax7/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
 | [1143-longest-common-subsequence](https://github.com/jitendrax7/DSA/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jitendrax7/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
