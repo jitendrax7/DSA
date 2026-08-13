@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/jitendrax7/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/jitendrax7/DSA/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/jitendrax7/DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/jitendrax7/DSA/tree/master/0072-edit-distance) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/jitendrax7/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/jitendrax7/DSA/tree/master/0045-jump-game-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jitendrax7/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jitendrax7/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/jitendrax7/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/jitendrax7/DSA/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/jitendrax7/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/jitendrax7/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/jitendrax7/DSA/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/jitendrax7/DSA/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
