@@ -7,7 +7,7 @@ public:
         int i = 0;
         for(int j =0;j<n;j++){
             m[s[j]]++;
-            while(i<n &&  m[s[j]]>2) m[s[i++]]--;
+            while(m[s[j]]>2) m[s[i++]]--;
             maxi = max(maxi, j-i+1);
         }
         return maxi;
