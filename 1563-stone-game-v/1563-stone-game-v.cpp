@@ -1,7 +1,7 @@
 class Solution {
 public:
     int f(vector<int>& cumsum, int low, int high, vector<vector<int>> & dp){
-        if(low>=high) return 0;
+        if(low==high) return 0;
 
         if(dp[low][high]!= -1) return dp[low][high];
         int score =0;
