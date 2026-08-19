@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jitendrax7/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/jitendrax7/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/jitendrax7/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/jitendrax7/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/jitendrax7/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/jitendrax7/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jitendrax7/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/jitendrax7/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/jitendrax7/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0997-find-the-town-judge](https://github.com/jitendrax7/DSA/tree/master/0997-find-the-town-judge) |
+| [1048-longest-string-chain](https://github.com/jitendrax7/DSA/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/jitendrax7/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/jitendrax7/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jitendrax7/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/jitendrax7/DSA/tree/master/0368-largest-divisible-subset) |
 | [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/jitendrax7/DSA/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/jitendrax7/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jitendrax7/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jitendrax7/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/jitendrax7/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/jitendrax7/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/jitendrax7/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/jitendrax7/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/jitendrax7/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jitendrax7/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jitendrax7/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/jitendrax7/DSA/tree/master/0997-find-the-town-judge) |
+| [1048-longest-string-chain](https://github.com/jitendrax7/DSA/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/jitendrax7/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jitendrax7/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/jitendrax7/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -297,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/jitendrax7/DSA/tree/master/1048-longest-string-chain) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jitendrax7/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jitendrax7/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
