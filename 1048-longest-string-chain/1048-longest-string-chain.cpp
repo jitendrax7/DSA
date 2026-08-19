@@ -24,7 +24,7 @@ public:
         return dp[i][prev] =  max(take, nottake);
     }
     int longestStrChain(vector<string>& words) {
-        sort(words.begin(), words.end(), [](const string& a, const string& b) {
+        sort(words.begin(), words.end(), [&](const string& a, const string& b) {
             return a.size() < b.size();
         });
         int n = words.size();
