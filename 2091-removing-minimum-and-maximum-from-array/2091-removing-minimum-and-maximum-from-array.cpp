@@ -12,8 +12,7 @@ public:
         return min({
             (max(minidx,maxidx)+1),
             (n-min(minidx,maxidx)),
-            ((minidx+1)+(n-maxidx)),
-            ((n-minidx)+(maxidx+1))
+            ((min(minidx,maxidx)+1)+(n-max(minidx,maxidx))),
         });
     }
 };
