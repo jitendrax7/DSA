@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/jitendrax7/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/jitendrax7/DSA/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/jitendrax7/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/jitendrax7/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/jitendrax7/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0997-find-the-town-judge](https://github.com/jitendrax7/DSA/tree/master/0997-find-the-town-judge) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/jitendrax7/DSA/tree/master/0221-maximal-square) |
 | [0778-swim-in-rising-water](https://github.com/jitendrax7/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/jitendrax7/DSA/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/jitendrax7/DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/jitendrax7/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/jitendrax7/DSA/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/jitendrax7/DSA/tree/master/1463-cherry-pickup-ii) |
