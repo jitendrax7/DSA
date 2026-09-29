@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/jitendrax7/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/jitendrax7/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/jitendrax7/DSA/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/jitendrax7/DSA/tree/master/0064-minimum-path-sum) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/jitendrax7/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/jitendrax7/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/jitendrax7/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/jitendrax7/DSA/tree/master/0115-distinct-subsequences) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/jitendrax7/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/jitendrax7/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/jitendrax7/DSA/tree/master/1106-parsing-a-boolean-expression) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jitendrax7/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/jitendrax7/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/jitendrax7/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jitendrax7/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jitendrax7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
