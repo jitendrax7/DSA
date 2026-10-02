@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jitendrax7/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jitendrax7/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/jitendrax7/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/jitendrax7/DSA/tree/master/0045-jump-game-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jitendrax7/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jitendrax7/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jitendrax7/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/jitendrax7/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/jitendrax7/DSA/tree/master/0072-edit-distance) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jitendrax7/DSA/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/jitendrax7/DSA/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/jitendrax7/DSA/tree/master/1096-brace-expansion-ii) |
 ## 0-1 Knapsack
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jitendrax7/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jitendrax7/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jitendrax7/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/jitendrax7/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jitendrax7/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
