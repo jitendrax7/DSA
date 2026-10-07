@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/jitendrax7/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/jitendrax7/DSA/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/jitendrax7/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/jitendrax7/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/jitendrax7/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/jitendrax7/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/jitendrax7/DSA/tree/master/0647-palindromic-substrings) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/jitendrax7/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/jitendrax7/DSA/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/jitendrax7/DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/jitendrax7/DSA/tree/master/0778-swim-in-rising-water) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jitendrax7/DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/jitendrax7/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/jitendrax7/DSA/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/jitendrax7/DSA/tree/master/1096-brace-expansion-ii) |
 ## 0-1 Knapsack
