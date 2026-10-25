@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/jitendrax7/DSA/tree/master/0997-find-the-town-judge) |
 | [1043-partition-array-for-maximum-sum](https://github.com/jitendrax7/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/jitendrax7/DSA/tree/master/1048-longest-string-chain) |
+| [1254-number-of-closed-islands](https://github.com/jitendrax7/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/jitendrax7/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/jitendrax7/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jitendrax7/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/jitendrax7/DSA/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jitendrax7/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/jitendrax7/DSA/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/jitendrax7/DSA/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jitendrax7/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jitendrax7/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jitendrax7/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/jitendrax7/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/jitendrax7/DSA/tree/master/0827-making-a-large-island) |
 | [1096-brace-expansion-ii](https://github.com/jitendrax7/DSA/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/jitendrax7/DSA/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jitendrax7/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jitendrax7/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/jitendrax7/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/jitendrax7/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/jitendrax7/DSA/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jitendrax7/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1254-number-of-closed-islands](https://github.com/jitendrax7/DSA/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jitendrax7/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jitendrax7/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jitendrax7/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/jitendrax7/DSA/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/jitendrax7/DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/jitendrax7/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/jitendrax7/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/jitendrax7/DSA/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/jitendrax7/DSA/tree/master/1463-cherry-pickup-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jitendrax7/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
