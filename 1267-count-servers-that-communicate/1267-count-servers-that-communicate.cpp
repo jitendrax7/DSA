@@ -1,36 +1,29 @@
 class Solution {
 public:
     int countServers(vector<vector<int>>& grid) {
-        unordered_set<int> st;
         int n = grid.size();
-        int m  = grid[0].size();
-        for(int i = 0;i<n;i++){
-            int prev = -1;
-            for(int j = 0;j<m;j++){
-                if(grid[i][j]==1){
-                    int id = m*i+j;
-                    if(prev!=-1){
-                        st.insert(id);
-                        st.insert(prev);
-                    }
-                    prev = id;
+        int m = grid[0].size();
+
+        vector<int> rowCount(n, 0);
+        vector<int> colCount(m, 0);
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 1) {
+                    rowCount[i]++;
+                    colCount[j]++;
                 }
             }
         }
-        for(int j = 0;j<m;j++){
-            int prev = -1;
-            for(int i = 0;i<n;i++){
-                if(grid[i][j]==1){
-                    int id = m*i+j;
-                    if(prev!=-1){
-                        st.insert(id);
-                        st.insert(prev);
-                    }
-                    prev = id;
+        int communicate_server_count = 0;
+        for (int j = 0; j < m; j++) {
+            for (int i = 0; i < n; i++) {
+                if (grid[i][j] == 1 && (rowCount[i] > 1 || colCount[j] > 1)) {
+                    communicate_server_count++;
                 }
             }
         }
 
-        return st.size();
+        return communicate_server_count;
     }
 };
