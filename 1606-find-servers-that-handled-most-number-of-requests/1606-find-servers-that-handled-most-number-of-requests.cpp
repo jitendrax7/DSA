@@ -7,7 +7,7 @@ public:
                        greater<pair<int, int>>>
             busyServer;
 
-        unordered_map<int, int> reqCount;
+        vector<int> reqCount(k,0);
 
         for (int i = 0; i < k; i++)
             avalable.insert(i);
@@ -40,9 +40,9 @@ public:
         }
 
         vector<int> busiestServer;
-        for (auto& it : reqCount) {
-            if (it.second == maxi) {
-                busiestServer.push_back(it.first);
+        for (int id = 0;id<k;id++) {
+            if (reqCount[id] == maxi) {
+                busiestServer.push_back(id);
             }
         }
 
