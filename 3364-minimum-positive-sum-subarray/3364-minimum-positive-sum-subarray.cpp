@@ -9,6 +9,7 @@ public:
             for (int j = i; j < n; j++) {
                 sum += nums[j];
                 int siz = j - i + 1;
+                if(siz>r) break;
                 if (sum > 0 && siz >= l && siz <= r) {
                     mini = min(mini, sum);
                 }
